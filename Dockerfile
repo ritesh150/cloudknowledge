@@ -1,5 +1,5 @@
 FROM centos
-MAINTAINER ritesh
+MAINTAINER riteshtorne9699
 RUN yum install -y httpd \
  zip \
  unzip
