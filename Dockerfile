@@ -1,4 +1,4 @@
-FROM centos-latest
+FROM centos
 MAINTAINER ritesh
 RUN yum install -y httpd \
  zip \
